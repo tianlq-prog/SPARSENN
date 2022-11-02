@@ -1,0 +1,522 @@
+mb_sample_id	local_sample_id	Brain region	Age	Gender
+SA149974	EA_F4_BG	Basal ganglia	16 weeks	Female
+SA149975	EA_F3_BG	Basal ganglia	16 weeks	Female
+SA149976	EA_F5_BG	Basal ganglia	16 weeks	Female
+SA149977	EA_F7_BG	Basal ganglia	16 weeks	Female
+SA149978	EA_F8_BG	Basal ganglia	16 weeks	Female
+SA149979	EA_F1_BG	Basal ganglia	16 weeks	Female
+SA149980	EA_F6_BG	Basal ganglia	16 weeks	Female
+SA149981	EA_F2_BG	Basal ganglia	16 weeks	Female
+SA149982	EA_M4_BG	Basal ganglia	16 weeks	Male
+SA149983	EA_M3_BG	Basal ganglia	16 weeks	Male
+SA149984	EA_M2_BG	Basal ganglia	16 weeks	Male
+SA149985	EA_M1_BG	Basal ganglia	16 weeks	Male
+SA149986	EA_M5_BG	Basal ganglia	16 weeks	Male
+SA149987	EA_M6_BG	Basal ganglia	16 weeks	Male
+SA149988	EA_M7_BG	Basal ganglia	16 weeks	Male
+SA149989	EA_M8_BG	Basal ganglia	16 weeks	Male
+SA149990	AD_F3_BG	Basal ganglia	3 weeks	Female
+SA149991	AD_F2_BG	Basal ganglia	3 weeks	Female
+SA149992	AD_F1_BG	Basal ganglia	3 weeks	Female
+SA149993	AD_F5_BG	Basal ganglia	3 weeks	Female
+SA149994	AD_F4_BG	Basal ganglia	3 weeks	Female
+SA149995	AD_F7_BG	Basal ganglia	3 weeks	Female
+SA149996	AD_F8_BG	Basal ganglia	3 weeks	Female
+SA149997	AD_F6_BG	Basal ganglia	3 weeks	Female
+SA149998	AD_M5_BG	Basal ganglia	3 weeks	Male
+SA149999	AD_M4_BG	Basal ganglia	3 weeks	Male
+SA150000	AD_M3_BG	Basal ganglia	3 weeks	Male
+SA150001	AD_M6_BG	Basal ganglia	3 weeks	Male
+SA150002	AD_M8_BG	Basal ganglia	3 weeks	Male
+SA150003	AD_M7_BG	Basal ganglia	3 weeks	Male
+SA150004	AD_M1_BG	Basal ganglia	3 weeks	Male
+SA150005	AD_M2_BG	Basal ganglia	3 weeks	Male
+SA150006	LA_F7_BG	Basal ganglia	59 weeks	Female
+SA150007	LA_F6_BG	Basal ganglia	59 weeks	Female
+SA150008	LA_F8_BG	Basal ganglia	59 weeks	Female
+SA150009	LA_F1_BG	Basal ganglia	59 weeks	Female
+SA150010	LA_F2_BG	Basal ganglia	59 weeks	Female
+SA150011	LA_F3_BG	Basal ganglia	59 weeks	Female
+SA150012	LA_F5_BG	Basal ganglia	59 weeks	Female
+SA150013	LA_F4_BG	Basal ganglia	59 weeks	Female
+SA150014	LA_M6_BG	Basal ganglia	59 weeks	Male
+SA150015	LA_M8_BG	Basal ganglia	59 weeks	Male
+SA150016	LA_M5_BG	Basal ganglia	59 weeks	Male
+SA150017	LA_M7_BG	Basal ganglia	59 weeks	Male
+SA150018	LA_M4_BG	Basal ganglia	59 weeks	Male
+SA150019	LA_M2_BG	Basal ganglia	59 weeks	Male
+SA150020	LA_M1_BG	Basal ganglia	59 weeks	Male
+SA150021	LA_M3_BG	Basal ganglia	59 weeks	Male
+SA150022	EA_F5_CB	Cerebellum	16 weeks	Female
+SA150023	EA_F6_CB	Cerebellum	16 weeks	Female
+SA150024	EA_F7_CB	Cerebellum	16 weeks	Female
+SA150025	EA_F4_CB	Cerebellum	16 weeks	Female
+SA150026	EA_F3_CB	Cerebellum	16 weeks	Female
+SA150027	EA_F2_CB	Cerebellum	16 weeks	Female
+SA150028	EA_F8_CB	Cerebellum	16 weeks	Female
+SA150029	EA_F1_CB	Cerebellum	16 weeks	Female
+SA150030	EA_M8_CB	Cerebellum	16 weeks	Male
+SA150031	EA_M6_CB	Cerebellum	16 weeks	Male
+SA150032	EA_M7_CB	Cerebellum	16 weeks	Male
+SA150033	EA_M5_CB	Cerebellum	16 weeks	Male
+SA150034	EA_M4_CB	Cerebellum	16 weeks	Male
+SA150035	EA_M2_CB	Cerebellum	16 weeks	Male
+SA150036	EA_M3_CB	Cerebellum	16 weeks	Male
+SA150037	EA_M1_CB	Cerebellum	16 weeks	Male
+SA150038	AD_F8_CB	Cerebellum	3 weeks	Female
+SA150039	AD_F6_CB	Cerebellum	3 weeks	Female
+SA150040	AD_F7_CB	Cerebellum	3 weeks	Female
+SA150041	AD_F5_CB	Cerebellum	3 weeks	Female
+SA150042	AD_F3_CB	Cerebellum	3 weeks	Female
+SA150043	AD_F2_CB	Cerebellum	3 weeks	Female
+SA150044	AD_F1_CB	Cerebellum	3 weeks	Female
+SA150045	AD_F4_CB	Cerebellum	3 weeks	Female
+SA150046	AD_M6_CB	Cerebellum	3 weeks	Male
+SA150047	AD_M8_CB	Cerebellum	3 weeks	Male
+SA150048	AD_M1_CB	Cerebellum	3 weeks	Male
+SA150049	AD_M5_CB	Cerebellum	3 weeks	Male
+SA150050	AD_M7_CB	Cerebellum	3 weeks	Male
+SA150051	AD_M2_CB	Cerebellum	3 weeks	Male
+SA150052	AD_M3_CB	Cerebellum	3 weeks	Male
+SA150053	AD_M4_CB	Cerebellum	3 weeks	Male
+SA150054	LA_F7_CB	Cerebellum	59 weeks	Female
+SA150055	LA_F8_CB	Cerebellum	59 weeks	Female
+SA150056	LA_F6_CB	Cerebellum	59 weeks	Female
+SA150057	LA_F3_CB	Cerebellum	59 weeks	Female
+SA150058	LA_F5_CB	Cerebellum	59 weeks	Female
+SA150059	LA_F2_CB	Cerebellum	59 weeks	Female
+SA150060	LA_F1_CB	Cerebellum	59 weeks	Female
+SA150061	LA_F4_CB	Cerebellum	59 weeks	Female
+SA150062	LA_M7_CB	Cerebellum	59 weeks	Male
+SA150063	LA_M6_CB	Cerebellum	59 weeks	Male
+SA150064	LA_M8_CB	Cerebellum	59 weeks	Male
+SA150065	LA_M1_CB	Cerebellum	59 weeks	Male
+SA150066	LA_M5_CB	Cerebellum	59 weeks	Male
+SA150067	LA_M3_CB	Cerebellum	59 weeks	Male
+SA150068	LA_M2_CB	Cerebellum	59 weeks	Male
+SA150069	LA_M4_CB	Cerebellum	59 weeks	Male
+SA150070	EA_F6_CT	Cerebral cortex	16 weeks	Female
+SA150071	EA_F7_CT	Cerebral cortex	16 weeks	Female
+SA150072	EA_F5_CT	Cerebral cortex	16 weeks	Female
+SA150073	EA_F2_CT	Cerebral cortex	16 weeks	Female
+SA150074	EA_F1_CT	Cerebral cortex	16 weeks	Female
+SA150075	EA_F8_CT	Cerebral cortex	16 weeks	Female
+SA150076	EA_F3_CT	Cerebral cortex	16 weeks	Female
+SA150077	EA_F4_CT	Cerebral cortex	16 weeks	Female
+SA150078	EA_M3_CT	Cerebral cortex	16 weeks	Male
+SA150079	EA_M7_CT	Cerebral cortex	16 weeks	Male
+SA150080	EA_M8_CT	Cerebral cortex	16 weeks	Male
+SA150081	EA_M6_CT	Cerebral cortex	16 weeks	Male
+SA150082	EA_M5_CT	Cerebral cortex	16 weeks	Male
+SA150083	EA_M2_CT	Cerebral cortex	16 weeks	Male
+SA150084	EA_M1_CT	Cerebral cortex	16 weeks	Male
+SA150085	EA_M4_CT	Cerebral cortex	16 weeks	Male
+SA150086	AD_F1_CT	Cerebral cortex	3 weeks	Female
+SA150087	AD_F7_CT	Cerebral cortex	3 weeks	Female
+SA150088	AD_F6_CT	Cerebral cortex	3 weeks	Female
+SA150089	AD_F5_CT	Cerebral cortex	3 weeks	Female
+SA150090	AD_F2_CT	Cerebral cortex	3 weeks	Female
+SA150091	AD_F3_CT	Cerebral cortex	3 weeks	Female
+SA150092	AD_F8_CT	Cerebral cortex	3 weeks	Female
+SA150093	AD_F4_CT	Cerebral cortex	3 weeks	Female
+SA150094	AD_M6_CT	Cerebral cortex	3 weeks	Male
+SA150095	AD_M8_CT	Cerebral cortex	3 weeks	Male
+SA150096	AD_M1_CT	Cerebral cortex	3 weeks	Male
+SA150097	AD_M5_CT	Cerebral cortex	3 weeks	Male
+SA150098	AD_M7_CT	Cerebral cortex	3 weeks	Male
+SA150099	AD_M2_CT	Cerebral cortex	3 weeks	Male
+SA150100	AD_M3_CT	Cerebral cortex	3 weeks	Male
+SA150101	AD_M4_CT	Cerebral cortex	3 weeks	Male
+SA150102	LA_F7_CT	Cerebral cortex	59 weeks	Female
+SA150103	LA_F8_CT	Cerebral cortex	59 weeks	Female
+SA150104	LA_F6_CT	Cerebral cortex	59 weeks	Female
+SA150105	LA_F3_CT	Cerebral cortex	59 weeks	Female
+SA150106	LA_F5_CT	Cerebral cortex	59 weeks	Female
+SA150107	LA_F2_CT	Cerebral cortex	59 weeks	Female
+SA150108	LA_F1_CT	Cerebral cortex	59 weeks	Female
+SA150109	LA_F4_CT	Cerebral cortex	59 weeks	Female
+SA150110	LA_M7_CT	Cerebral cortex	59 weeks	Male
+SA150111	LA_M6_CT	Cerebral cortex	59 weeks	Male
+SA150112	LA_M8_CT	Cerebral cortex	59 weeks	Male
+SA150113	LA_M1_CT	Cerebral cortex	59 weeks	Male
+SA150114	LA_M5_CT	Cerebral cortex	59 weeks	Male
+SA150115	LA_M3_CT	Cerebral cortex	59 weeks	Male
+SA150116	LA_M2_CT	Cerebral cortex	59 weeks	Male
+SA150117	LA_M4_CT	Cerebral cortex	59 weeks	Male
+SA150118	EA_F6_HC	Hippocampus	16 weeks	Female
+SA150119	EA_F7_HC	Hippocampus	16 weeks	Female
+SA150120	EA_F5_HC	Hippocampus	16 weeks	Female
+SA150121	EA_F2_HC	Hippocampus	16 weeks	Female
+SA150122	EA_F1_HC	Hippocampus	16 weeks	Female
+SA150123	EA_F8_HC	Hippocampus	16 weeks	Female
+SA150124	EA_F3_HC	Hippocampus	16 weeks	Female
+SA150125	EA_F4_HC	Hippocampus	16 weeks	Female
+SA150126	EA_M4_HC	Hippocampus	16 weeks	Male
+SA150127	EA_M7_HC	Hippocampus	16 weeks	Male
+SA150128	EA_M8_HC	Hippocampus	16 weeks	Male
+SA150129	EA_M6_HC	Hippocampus	16 weeks	Male
+SA150130	EA_M5_HC	Hippocampus	16 weeks	Male
+SA150131	EA_M2_HC	Hippocampus	16 weeks	Male
+SA150132	EA_M3_HC	Hippocampus	16 weeks	Male
+SA150133	EA_M1_HC	Hippocampus	16 weeks	Male
+SA150134	AD_F3_HC	Hippocampus	3 weeks	Female
+SA150135	AD_F5_HC	Hippocampus	3 weeks	Female
+SA150136	AD_F6_HC	Hippocampus	3 weeks	Female
+SA150137	AD_F4_HC	Hippocampus	3 weeks	Female
+SA150138	AD_F2_HC	Hippocampus	3 weeks	Female
+SA150139	AD_F1_HC	Hippocampus	3 weeks	Female
+SA150140	AD_F7_HC	Hippocampus	3 weeks	Female
+SA150141	AD_F8_HC	Hippocampus	3 weeks	Female
+SA150142	AD_M1_HC	Hippocampus	3 weeks	Male
+SA150143	AD_M6_HC	Hippocampus	3 weeks	Male
+SA150144	AD_M7_HC	Hippocampus	3 weeks	Male
+SA150145	AD_M4_HC	Hippocampus	3 weeks	Male
+SA150146	AD_M5_HC	Hippocampus	3 weeks	Male
+SA150147	AD_M3_HC	Hippocampus	3 weeks	Male
+SA150148	AD_M8_HC	Hippocampus	3 weeks	Male
+SA150149	AD_M2_HC	Hippocampus	3 weeks	Male
+SA150150	LA_F6_HC	Hippocampus	59 weeks	Female
+SA150151	LA_F8_HC	Hippocampus	59 weeks	Female
+SA150152	LA_F7_HC	Hippocampus	59 weeks	Female
+SA150153	LA_F5_HC	Hippocampus	59 weeks	Female
+SA150154	LA_F1_HC	Hippocampus	59 weeks	Female
+SA150155	LA_F2_HC	Hippocampus	59 weeks	Female
+SA150156	LA_F4_HC	Hippocampus	59 weeks	Female
+SA150157	LA_F3_HC	Hippocampus	59 weeks	Female
+SA150158	LA_M6_HC	Hippocampus	59 weeks	Male
+SA150159	LA_M8_HC	Hippocampus	59 weeks	Male
+SA150160	LA_M5_HC	Hippocampus	59 weeks	Male
+SA150161	LA_M7_HC	Hippocampus	59 weeks	Male
+SA150162	LA_M4_HC	Hippocampus	59 weeks	Male
+SA150163	LA_M2_HC	Hippocampus	59 weeks	Male
+SA150164	LA_M1_HC	Hippocampus	59 weeks	Male
+SA150165	LA_M3_HC	Hippocampus	59 weeks	Male
+SA150166	EA_F3_HT	Hypothalamus	16 weeks	Female
+SA150167	EA_F2_HT	Hypothalamus	16 weeks	Female
+SA150168	EA_F4_HT	Hypothalamus	16 weeks	Female
+SA150169	EA_F6_HT	Hypothalamus	16 weeks	Female
+SA150170	EA_F8_HT	Hypothalamus	16 weeks	Female
+SA150171	EA_F1_HT	Hypothalamus	16 weeks	Female
+SA150172	EA_F5_HT	Hypothalamus	16 weeks	Female
+SA150173	EA_F7_HT	Hypothalamus	16 weeks	Female
+SA150174	EA_M3_HT	Hypothalamus	16 weeks	Male
+SA150175	EA_M2_HT	Hypothalamus	16 weeks	Male
+SA150176	EA_M1_HT	Hypothalamus	16 weeks	Male
+SA150177	EA_M4_HT	Hypothalamus	16 weeks	Male
+SA150178	EA_M5_HT	Hypothalamus	16 weeks	Male
+SA150179	EA_M8_HT	Hypothalamus	16 weeks	Male
+SA150180	EA_M7_HT	Hypothalamus	16 weeks	Male
+SA150181	EA_M6_HT	Hypothalamus	16 weeks	Male
+SA150182	AD_F2_HT	Hypothalamus	3 weeks	Female
+SA150183	AD_F1_HT	Hypothalamus	3 weeks	Female
+SA150184	AD_F4_HT	Hypothalamus	3 weeks	Female
+SA150185	AD_F3_HT	Hypothalamus	3 weeks	Female
+SA150186	AD_F5_HT	Hypothalamus	3 weeks	Female
+SA150187	AD_F8_HT	Hypothalamus	3 weeks	Female
+SA150188	AD_F7_HT	Hypothalamus	3 weeks	Female
+SA150189	AD_F6_HT	Hypothalamus	3 weeks	Female
+SA150190	AD_M3_HT	Hypothalamus	3 weeks	Male
+SA150191	AD_M4_HT	Hypothalamus	3 weeks	Male
+SA150192	AD_M2_HT	Hypothalamus	3 weeks	Male
+SA150193	AD_M5_HT	Hypothalamus	3 weeks	Male
+SA150194	AD_M7_HT	Hypothalamus	3 weeks	Male
+SA150195	AD_M6_HT	Hypothalamus	3 weeks	Male
+SA150196	AD_M1_HT	Hypothalamus	3 weeks	Male
+SA150197	AD_M8_HT	Hypothalamus	3 weeks	Male
+SA150198	LA_F7_HT	Hypothalamus	59 weeks	Female
+SA150199	LA_F6_HT	Hypothalamus	59 weeks	Female
+SA150200	LA_F8_HT	Hypothalamus	59 weeks	Female
+SA150201	LA_F1_HT	Hypothalamus	59 weeks	Female
+SA150202	LA_F5_HT	Hypothalamus	59 weeks	Female
+SA150203	LA_F3_HT	Hypothalamus	59 weeks	Female
+SA150204	LA_F2_HT	Hypothalamus	59 weeks	Female
+SA150205	LA_F4_HT	Hypothalamus	59 weeks	Female
+SA150206	LA_M6_HT	Hypothalamus	59 weeks	Male
+SA150207	LA_M8_HT	Hypothalamus	59 weeks	Male
+SA150208	LA_M5_HT	Hypothalamus	59 weeks	Male
+SA150209	LA_M7_HT	Hypothalamus	59 weeks	Male
+SA150210	LA_M4_HT	Hypothalamus	59 weeks	Male
+SA150211	LA_M2_HT	Hypothalamus	59 weeks	Male
+SA150212	LA_M1_HT	Hypothalamus	59 weeks	Male
+SA150213	LA_M3_HT	Hypothalamus	59 weeks	Male
+SA150214	EA_F3_MD	Medulla	16 weeks	Female
+SA150215	EA_F2_MD	Medulla	16 weeks	Female
+SA150216	EA_F4_MD	Medulla	16 weeks	Female
+SA150217	EA_F7_MD	Medulla	16 weeks	Female
+SA150218	EA_F8_MD	Medulla	16 weeks	Female
+SA150219	EA_F6_MD	Medulla	16 weeks	Female
+SA150220	EA_F1_MD	Medulla	16 weeks	Female
+SA150221	EA_F5_MD	Medulla	16 weeks	Female
+SA150222	EA_M4_MD	Medulla	16 weeks	Male
+SA150223	EA_M2_MD	Medulla	16 weeks	Male
+SA150224	EA_M5_MD	Medulla	16 weeks	Male
+SA150225	EA_M6_MD	Medulla	16 weeks	Male
+SA150226	EA_M8_MD	Medulla	16 weeks	Male
+SA150227	EA_M7_MD	Medulla	16 weeks	Male
+SA150228	EA_M1_MD	Medulla	16 weeks	Male
+SA150229	EA_M3_MD	Medulla	16 weeks	Male
+SA150230	AD_F2_MD	Medulla	3 weeks	Female
+SA150231	AD_F1_MD	Medulla	3 weeks	Female
+SA150232	AD_F8_MD	Medulla	3 weeks	Female
+SA150233	AD_F4_MD	Medulla	3 weeks	Female
+SA150234	AD_F3_MD	Medulla	3 weeks	Female
+SA150235	AD_F6_MD	Medulla	3 weeks	Female
+SA150236	AD_F7_MD	Medulla	3 weeks	Female
+SA150237	AD_F5_MD	Medulla	3 weeks	Female
+SA150238	AD_M3_MD	Medulla	3 weeks	Male
+SA150239	AD_M2_MD	Medulla	3 weeks	Male
+SA150240	AD_M5_MD	Medulla	3 weeks	Male
+SA150241	AD_M4_MD	Medulla	3 weeks	Male
+SA150242	AD_M6_MD	Medulla	3 weeks	Male
+SA150243	AD_M1_MD	Medulla	3 weeks	Male
+SA150244	AD_M8_MD	Medulla	3 weeks	Male
+SA150245	AD_M7_MD	Medulla	3 weeks	Male
+SA150246	LA_F6_MD	Medulla	59 weeks	Female
+SA150247	LA_F8_MD	Medulla	59 weeks	Female
+SA150248	LA_F7_MD	Medulla	59 weeks	Female
+SA150249	LA_F5_MD	Medulla	59 weeks	Female
+SA150250	LA_F4_MD	Medulla	59 weeks	Female
+SA150251	LA_F2_MD	Medulla	59 weeks	Female
+SA150252	LA_F1_MD	Medulla	59 weeks	Female
+SA150253	LA_F3_MD	Medulla	59 weeks	Female
+SA150254	LA_M6_MD	Medulla	59 weeks	Male
+SA150255	LA_M5_MD	Medulla	59 weeks	Male
+SA150256	LA_M8_MD	Medulla	59 weeks	Male
+SA150257	LA_M7_MD	Medulla	59 weeks	Male
+SA150258	LA_M4_MD	Medulla	59 weeks	Male
+SA150259	LA_M3_MD	Medulla	59 weeks	Male
+SA150260	LA_M2_MD	Medulla	59 weeks	Male
+SA150261	LA_M1_MD	Medulla	59 weeks	Male
+SA150262	EA_F3_MB	Midbrain	16 weeks	Female
+SA150263	EA_F2_MB	Midbrain	16 weeks	Female
+SA150264	EA_F4_MB	Midbrain	16 weeks	Female
+SA150265	EA_F7_MB	Midbrain	16 weeks	Female
+SA150266	EA_F8_MB	Midbrain	16 weeks	Female
+SA150267	EA_F6_MB	Midbrain	16 weeks	Female
+SA150268	EA_F5_MB	Midbrain	16 weeks	Female
+SA150269	EA_F1_MB	Midbrain	16 weeks	Female
+SA150270	EA_M3_MB	Midbrain	16 weeks	Male
+SA150271	EA_M2_MB	Midbrain	16 weeks	Male
+SA150272	EA_M1_MB	Midbrain	16 weeks	Male
+SA150273	EA_M4_MB	Midbrain	16 weeks	Male
+SA150274	EA_M5_MB	Midbrain	16 weeks	Male
+SA150275	EA_M8_MB	Midbrain	16 weeks	Male
+SA150276	EA_M7_MB	Midbrain	16 weeks	Male
+SA150277	EA_M6_MB	Midbrain	16 weeks	Male
+SA150278	AD_F2_MB	Midbrain	3 weeks	Female
+SA150279	AD_F1_MB	Midbrain	3 weeks	Female
+SA150280	AD_F4_MB	Midbrain	3 weeks	Female
+SA150281	AD_F3_MB	Midbrain	3 weeks	Female
+SA150282	AD_F5_MB	Midbrain	3 weeks	Female
+SA150283	AD_F8_MB	Midbrain	3 weeks	Female
+SA150284	AD_F7_MB	Midbrain	3 weeks	Female
+SA150285	AD_F6_MB	Midbrain	3 weeks	Female
+SA150286	AD_M3_MB	Midbrain	3 weeks	Male
+SA150287	AD_M5_MB	Midbrain	3 weeks	Male
+SA150288	AD_M4_MB	Midbrain	3 weeks	Male
+SA150289	AD_M6_MB	Midbrain	3 weeks	Male
+SA150290	AD_M7_MB	Midbrain	3 weeks	Male
+SA150291	AD_M8_MB	Midbrain	3 weeks	Male
+SA150292	AD_M2_MB	Midbrain	3 weeks	Male
+SA150293	AD_M1_MB	Midbrain	3 weeks	Male
+SA150294	LA_F7_MB	Midbrain	59 weeks	Female
+SA150295	LA_F5_MB	Midbrain	59 weeks	Female
+SA150296	LA_F8_MB	Midbrain	59 weeks	Female
+SA150297	LA_F6_MB	Midbrain	59 weeks	Female
+SA150298	LA_F2_MB	Midbrain	59 weeks	Female
+SA150299	LA_F3_MB	Midbrain	59 weeks	Female
+SA150300	LA_F1_MB	Midbrain	59 weeks	Female
+SA150301	LA_F4_MB	Midbrain	59 weeks	Female
+SA150302	LA_M6_MB	Midbrain	59 weeks	Male
+SA150303	LA_M7_MB	Midbrain	59 weeks	Male
+SA150304	LA_M5_MB	Midbrain	59 weeks	Male
+SA150305	LA_M8_MB	Midbrain	59 weeks	Male
+SA150306	LA_M1_MB	Midbrain	59 weeks	Male
+SA150307	LA_M4_MB	Midbrain	59 weeks	Male
+SA150308	LA_M2_MB	Midbrain	59 weeks	Male
+SA150309	LA_M3_MB	Midbrain	59 weeks	Male
+SA150310	poolQC_042	NA	NA	NA
+SA150311	poolQC_043	NA	NA	NA
+SA150312	poolQC_044	NA	NA	NA
+SA150313	poolQC_025	NA	NA	NA
+SA150314	poolQC_035	NA	NA	NA
+SA150315	poolQC_034	NA	NA	NA
+SA150316	poolQC_045	NA	NA	NA
+SA150317	poolQC_018	NA	NA	NA
+SA150318	poolQC_032	NA	NA	NA
+SA150319	poolQC_012	NA	NA	NA
+SA150320	poolQC_013	NA	NA	NA
+SA150321	poolQC_014	NA	NA	NA
+SA150322	poolQC_015	NA	NA	NA
+SA150323	poolQC_016	NA	NA	NA
+SA150324	poolQC_019	NA	NA	NA
+SA150325	poolQC_011	NA	NA	NA
+SA150326	poolQC_008	NA	NA	NA
+SA150327	poolQC_009	NA	NA	NA
+SA150328	poolQC_010	NA	NA	NA
+SA150329	poolQC_007	NA	NA	NA
+SA150330	poolQC_006	NA	NA	NA
+SA150331	poolQC_029	NA	NA	NA
+SA150332	poolQC_030	NA	NA	NA
+SA150333	poolQC_031	NA	NA	NA
+SA150334	Mtdblk_002	NA	NA	NA
+SA150335	poolQC_028	NA	NA	NA
+SA150336	poolQC_027	NA	NA	NA
+SA150337	poolQC_024	NA	NA	NA
+SA150338	poolQC_023	NA	NA	NA
+SA150339	poolQC_026	NA	NA	NA
+SA150340	Mtdblk_001	NA	NA	NA
+SA150341	poolQC_001	NA	NA	NA
+SA150342	poolQC_022	NA	NA	NA
+SA150343	poolQC_046	NA	NA	NA
+SA150344	poolQC_021	NA	NA	NA
+SA150345	poolQC_017	NA	NA	NA
+SA150346	poolQC_005	NA	NA	NA
+SA150347	poolQC_002	NA	NA	NA
+SA150348	poolQC_003	NA	NA	NA
+SA150349	poolQC_004	NA	NA	NA
+SA150350	poolQC_020	NA	NA	NA
+SA150351	EA_F4_OB	Olfactory bulb	16 weeks	Female
+SA150352	EA_F2_OB	Olfactory bulb	16 weeks	Female
+SA150353	EA_F1_OB	Olfactory bulb	16 weeks	Female
+SA150354	EA_F3_OB	Olfactory bulb	16 weeks	Female
+SA150355	EA_F5_OB	Olfactory bulb	16 weeks	Female
+SA150356	EA_F7_OB	Olfactory bulb	16 weeks	Female
+SA150357	EA_F6_OB	Olfactory bulb	16 weeks	Female
+SA150358	EA_F8_OB	Olfactory bulb	16 weeks	Female
+SA150359	EA_M4_OB	Olfactory bulb	16 weeks	Male
+SA150360	EA_M1_OB	Olfactory bulb	16 weeks	Male
+SA150361	EA_M8_OB	Olfactory bulb	16 weeks	Male
+SA150362	EA_M3_OB	Olfactory bulb	16 weeks	Male
+SA150363	EA_M2_OB	Olfactory bulb	16 weeks	Male
+SA150364	EA_M5_OB	Olfactory bulb	16 weeks	Male
+SA150365	EA_M6_OB	Olfactory bulb	16 weeks	Male
+SA150366	EA_M7_OB	Olfactory bulb	16 weeks	Male
+SA150367	AD_F3_OB	Olfactory bulb	3 weeks	Female
+SA150368	AD_F2_OB	Olfactory bulb	3 weeks	Female
+SA150369	AD_F1_OB	Olfactory bulb	3 weeks	Female
+SA150370	AD_F4_OB	Olfactory bulb	3 weeks	Female
+SA150371	AD_F8_OB	Olfactory bulb	3 weeks	Female
+SA150372	AD_F7_OB	Olfactory bulb	3 weeks	Female
+SA150373	AD_F6_OB	Olfactory bulb	3 weeks	Female
+SA150374	AD_F5_OB	Olfactory bulb	3 weeks	Female
+SA150375	AD_M2_OB	Olfactory bulb	3 weeks	Male
+SA150376	AD_M7_OB	Olfactory bulb	3 weeks	Male
+SA150377	AD_M8_OB	Olfactory bulb	3 weeks	Male
+SA150378	AD_M5_OB	Olfactory bulb	3 weeks	Male
+SA150379	AD_M6_OB	Olfactory bulb	3 weeks	Male
+SA150380	AD_M4_OB	Olfactory bulb	3 weeks	Male
+SA150381	AD_M3_OB	Olfactory bulb	3 weeks	Male
+SA150382	AD_M1_OB	Olfactory bulb	3 weeks	Male
+SA150383	LA_F6_OB	Olfactory bulb	59 weeks	Female
+SA150384	LA_F7_OB	Olfactory bulb	59 weeks	Female
+SA150385	LA_F8_OB	Olfactory bulb	59 weeks	Female
+SA150386	LA_F5_OB	Olfactory bulb	59 weeks	Female
+SA150387	LA_F2_OB	Olfactory bulb	59 weeks	Female
+SA150388	LA_F4_OB	Olfactory bulb	59 weeks	Female
+SA150389	LA_F1_OB	Olfactory bulb	59 weeks	Female
+SA150390	LA_F3_OB	Olfactory bulb	59 weeks	Female
+SA150391	LA_M3_OB	Olfactory bulb	59 weeks	Male
+SA150392	LA_M2_OB	Olfactory bulb	59 weeks	Male
+SA150393	LA_M1_OB	Olfactory bulb	59 weeks	Male
+SA150394	LA_M4_OB	Olfactory bulb	59 weeks	Male
+SA150395	LA_M5_OB	Olfactory bulb	59 weeks	Male
+SA150396	LA_M7_OB	Olfactory bulb	59 weeks	Male
+SA150397	LA_M8_OB	Olfactory bulb	59 weeks	Male
+SA150398	LA_M6_OB	Olfactory bulb	59 weeks	Male
+SA150399	EA_F4_PON	Pons	16 weeks	Female
+SA150400	EA_F7_PON	Pons	16 weeks	Female
+SA150401	EA_F8_PON	Pons	16 weeks	Female
+SA150402	EA_F6_PON	Pons	16 weeks	Female
+SA150403	EA_F3_PON	Pons	16 weeks	Female
+SA150404	EA_F1_PON	Pons	16 weeks	Female
+SA150405	EA_F5_PON	Pons	16 weeks	Female
+SA150406	EA_F2_PON	Pons	16 weeks	Female
+SA150407	EA_M1_PON	Pons	16 weeks	Male
+SA150408	EA_M2_PON	Pons	16 weeks	Male
+SA150409	EA_M6_PON	Pons	16 weeks	Male
+SA150410	EA_M8_PON	Pons	16 weeks	Male
+SA150411	EA_M7_PON	Pons	16 weeks	Male
+SA150412	EA_M5_PON	Pons	16 weeks	Male
+SA150413	EA_M4_PON	Pons	16 weeks	Male
+SA150414	EA_M3_PON	Pons	16 weeks	Male
+SA150415	AD_F2_PON	Pons	3 weeks	Female
+SA150416	AD_F6_PON	Pons	3 weeks	Female
+SA150417	AD_F8_PON	Pons	3 weeks	Female
+SA150418	AD_F7_PON	Pons	3 weeks	Female
+SA150419	AD_F5_PON	Pons	3 weeks	Female
+SA150420	AD_F1_PON	Pons	3 weeks	Female
+SA150421	AD_F3_PON	Pons	3 weeks	Female
+SA150422	AD_F4_PON	Pons	3 weeks	Female
+SA150423	AD_M1_PON	Pons	3 weeks	Male
+SA150424	AD_M2_PON	Pons	3 weeks	Male
+SA150425	AD_M7_PON	Pons	3 weeks	Male
+SA150426	AD_M8_PON	Pons	3 weeks	Male
+SA150427	AD_M6_PON	Pons	3 weeks	Male
+SA150428	AD_M5_PON	Pons	3 weeks	Male
+SA150429	AD_M3_PON	Pons	3 weeks	Male
+SA150430	AD_M4_PON	Pons	3 weeks	Male
+SA150431	LA_F4_PON	Pons	59 weeks	Female
+SA150432	LA_F2_PON	Pons	59 weeks	Female
+SA150433	LA_F5_PON	Pons	59 weeks	Female
+SA150434	LA_F6_PON	Pons	59 weeks	Female
+SA150435	LA_F8_PON	Pons	59 weeks	Female
+SA150436	LA_F7_PON	Pons	59 weeks	Female
+SA150437	LA_F1_PON	Pons	59 weeks	Female
+SA150438	LA_F3_PON	Pons	59 weeks	Female
+SA150439	LA_M4_PON	Pons	59 weeks	Male
+SA150440	LA_M8_PON	Pons	59 weeks	Male
+SA150441	LA_M3_PON	Pons	59 weeks	Male
+SA150442	LA_M5_PON	Pons	59 weeks	Male
+SA150443	LA_M1_PON	Pons	59 weeks	Male
+SA150444	LA_M7_PON	Pons	59 weeks	Male
+SA150445	LA_M6_PON	Pons	59 weeks	Male
+SA150446	LA_M2_PON	Pons	59 weeks	Male
+SA150447	EA_F8_TL	Thalamus	16 weeks	Female
+SA150448	EA_F2_TL	Thalamus	16 weeks	Female
+SA150449	EA_F6_TL	Thalamus	16 weeks	Female
+SA150450	EA_F7_TL	Thalamus	16 weeks	Female
+SA150451	EA_F5_TL	Thalamus	16 weeks	Female
+SA150452	EA_F4_TL	Thalamus	16 weeks	Female
+SA150453	EA_F3_TL	Thalamus	16 weeks	Female
+SA150454	EA_F1_TL	Thalamus	16 weeks	Female
+SA150455	EA_M5_TL	Thalamus	16 weeks	Male
+SA150456	EA_M7_TL	Thalamus	16 weeks	Male
+SA150457	EA_M6_TL	Thalamus	16 weeks	Male
+SA150458	EA_M8_TL	Thalamus	16 weeks	Male
+SA150459	EA_M3_TL	Thalamus	16 weeks	Male
+SA150460	EA_M1_TL	Thalamus	16 weeks	Male
+SA150461	EA_M2_TL	Thalamus	16 weeks	Male
+SA150462	EA_M4_TL	Thalamus	16 weeks	Male
+SA150463	AD_F1_TL	Thalamus	3 weeks	Female
+SA150464	AD_F6_TL	Thalamus	3 weeks	Female
+SA150465	AD_F7_TL	Thalamus	3 weeks	Female
+SA150466	AD_F5_TL	Thalamus	3 weeks	Female
+SA150467	AD_F4_TL	Thalamus	3 weeks	Female
+SA150468	AD_F2_TL	Thalamus	3 weeks	Female
+SA150469	AD_F3_TL	Thalamus	3 weeks	Female
+SA150470	AD_F8_TL	Thalamus	3 weeks	Female
+SA150471	AD_M1_TL	Thalamus	3 weeks	Male
+SA150472	AD_M7_TL	Thalamus	3 weeks	Male
+SA150473	AD_M4_TL	Thalamus	3 weeks	Male
+SA150474	AD_M6_TL	Thalamus	3 weeks	Male
+SA150475	AD_M8_TL	Thalamus	3 weeks	Male
+SA150476	AD_M5_TL	Thalamus	3 weeks	Male
+SA150477	AD_M3_TL	Thalamus	3 weeks	Male
+SA150478	AD_M2_TL	Thalamus	3 weeks	Male
+SA150479	LA_F5_TL	Thalamus	59 weeks	Female
+SA150480	LA_F4_TL	Thalamus	59 weeks	Female
+SA150481	LA_F2_TL	Thalamus	59 weeks	Female
+SA150482	LA_F6_TL	Thalamus	59 weeks	Female
+SA150483	LA_F1_TL	Thalamus	59 weeks	Female
+SA150484	LA_F3_TL	Thalamus	59 weeks	Female
+SA150485	LA_F8_TL	Thalamus	59 weeks	Female
+SA150486	LA_F7_TL	Thalamus	59 weeks	Female
+SA150487	LA_M6_TL	Thalamus	59 weeks	Male
+SA150488	LA_M7_TL	Thalamus	59 weeks	Male
+SA150489	LA_M8_TL	Thalamus	59 weeks	Male
+SA150490	LA_M5_TL	Thalamus	59 weeks	Male
+SA150491	LA_M4_TL	Thalamus	59 weeks	Male
+SA150492	LA_M1_TL	Thalamus	59 weeks	Male
+SA150493	LA_M2_TL	Thalamus	59 weeks	Male
+SA150494	LA_M3_TL	Thalamus	59 weeks	Male

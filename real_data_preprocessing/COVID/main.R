@@ -11,9 +11,9 @@ load("raw_data/negative batchwise HMDB 12 0.5 2 0.333333333333333 0.5 0.5 new.Rd
 
 neg_data <- g
 
-K <- rbind(K_pos, K_neg)
+#K <- rbind(K_pos, K_neg)
 
-dim(K) # 23206 10
+#dim(K) # 23206 10
 
 dim(pos_data) # 4593 * 704
 dim(neg_data) # 2733 * 704
@@ -43,11 +43,11 @@ dim(Y_info) # 700 * 4
 rowsum <- rowSums(data==0)
 hist(rowsum, breaks = 30)
 summary(rowsum[rowsum>0])
-sum(rowsum< 0.5 * 700)/(dim(data)[1]) # 98.10% of features has less than 
+sum(rowsum< 0.75 * 700)/(dim(data)[1]) 
 
-data <- data[which(rowsum<0.5 * 700),]
+data <- data[which(rowsum<0.75 * 700),]
 
-dim(data) # 7179 * 700
+dim(data) # 7326 * 700
 
 # remove batch effect 
 library(sva)
@@ -58,15 +58,16 @@ combat_edata <- ComBat(dat = edata, batch = batch) #remove batch effect
 combat_edata <- normalize.quantiles(combat_edata)
 data[,5:dim(data)[2]] <- combat_edata
 
-dim(data) # 7179 * 704
+dim(data) # 7326 * 704
 
 data_idx <- which(data[,1] %in% annotation[,9])
 data_anno <- data[data_idx,] # data with annotation
 
-dim(data_anno)  # 4220 * 704
+dim(data_anno)  # 4308 * 704
 
 annotation_1 <- annotation[which(annotation[,9] %in% data_anno[,1]),]
-dim(annotation_1) # 22833 * 10
+dim(annotation_1) # 23206 * 10
+
 
 # the compound network
 load("raw_data/human.graph.degree.less.than.20.RData")
@@ -96,7 +97,7 @@ for (r in r_name){g <- add_edge_func(g, r)}
 
 all_compound <- V(g)$name
 sel_compound <- intersect(all_compound, unique(annotation_1$KEGGID))
-length(sel_compound) # 907
+length(sel_compound) # 913
 
 idx_g <- c()
 for (i in sel_compound) {
@@ -105,15 +106,14 @@ for (i in sel_compound) {
 
 adj_new <- as_adjacency_matrix(g)[idx_g,][,idx_g]
 
-dim(adj_new) # 907 * 907
-#dim(matching_new) # 7179 * 907
+dim(adj_new) # 913 * 913
 
 annotation_2 <- annotation_1[which(annotation_1$KEGGID %in% sel_compound),]
 rownames(annotation_2) <- 1:nrow(annotation_2)  
-dim(annotation_2) # 2818 * 10
+dim(annotation_2) # 2851 * 10
 
 data_anno_new <- data_anno[which(data_anno[,1] %in% annotation_2[,9]),]
-dim(data_anno_new) # 1334 * 704
+dim(data_anno_new) # 1351 * 704
 
 
 # obtain the feature-meta-matrix
@@ -139,10 +139,10 @@ colnames(ion_matrix) <- sel_compound
 rownames(ion_matrix) <- rownames(data_anno_new)
 
 
-dim(data_anno_new) # 1334 * 704
-dim(matching) # 1334 * 907
-dim(adj_new) # 907 * 907
-dim(ion_matrix) # 1334 * 907
+dim(data_anno_new) # 1351 * 704
+dim(matching) # 1351 * 913
+dim(adj_new) # 913 * 913
+dim(ion_matrix) # 1351 * 913
 
 
 

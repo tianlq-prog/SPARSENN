@@ -1,5 +1,4 @@
 ## load positive data
-
 load("ST001637 positive HMDB 5e-05 5 0.1 1 104 0.1 200 .rda")
 
 pos_data <- g
@@ -32,22 +31,22 @@ dim(data) #  17032   484
 rowsum <- rowSums(data==0)
 hist(rowsum, breaks = 30)
 summary(rowsum[rowsum>0])
-sum(rowsum< 0.5 * dim(data)[2])/(dim(data)[1]) # 61.61% of features has less than 
+sum(rowsum< 0.75 * dim(data)[2])/(dim(data)[1]) 
 
 
-data <- data[which(rowsum<0.5 * dim(data)[2]),]
+data <- data[which(rowsum<0.75 * dim(data)[2]),]
 
-dim(data) # 12966   484
+dim(data) # 16120   484
 
 load("mouse_annotation.Rdata")
 
 data_idx <- which(data[,1] %in% annotation[,9])
 data_anno <- data[data_idx,] # data with annotation
 
-dim(data_anno)  # 3414  484
+dim(data_anno)  # 4209  484
 
 annotation_1 <- annotation[which(annotation[,9] %in% data_anno[,1]),]
-dim(annotation_1) # 11099    10
+dim(annotation_1) # 13201     10
 
 # the compound network
 load('human.graph.degree.less.than.20.RData')
@@ -77,7 +76,7 @@ for (r in r_name){g <- add_edge_func(g, r)}
 
 all_compound <- V(g)$name
 sel_compound <- intersect(all_compound, unique(annotation_1$KEGGID))
-length(sel_compound) # 630
+length(sel_compound) # 713
 
 idx_g <- c()
 for (i in sel_compound) {
@@ -86,14 +85,14 @@ for (i in sel_compound) {
 
 adj_new <- as_adjacency_matrix(g)[idx_g,][,idx_g]
 
-dim(adj_new) # 630 630
+dim(adj_new) # 713 713
 
 annotation_2 <- annotation_1[which(annotation_1$KEGGID %in% sel_compound),]
 rownames(annotation_2) <- 1:nrow(annotation_2)  
-dim(annotation_2) # 953  10
+dim(annotation_2) # 1113 10
 
 data_anno_new <- data_anno[which(data_anno[,1] %in% annotation_2[,9]),]
-dim(data_anno_new) # 560 484
+dim(data_anno_new) # 671 484
 
 
 # obtain the feature-meta-matrix
@@ -119,10 +118,10 @@ colnames(ion_matrix) <- sel_compound
 rownames(ion_matrix) <- rownames(data_anno_new)
 
 
-dim(data_anno_new) # 560 484
-dim(matching) # 560 630
-dim(adj_new) # 630 630
-dim(ion_matrix) # 560 630
+dim(data_anno_new) # 671 484
+dim(matching) # 671 713
+dim(adj_new) # 713 713
+dim(ion_matrix) # 671 713
 
 write.csv(matching, "processed/feature_meta_matching.csv")
 write.csv(data_anno_new, "processed/data.csv")
